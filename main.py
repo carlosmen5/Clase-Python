@@ -27,3 +27,4 @@ if __name__ == "__main__":
         num.dividir(2)  # Cambia este número si quieres sumar otro valor
     except ValueError:
         print("Por favor, ingresa un número válido.")
+        print("Nueva Linea")
